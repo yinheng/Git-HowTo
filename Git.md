@@ -3,9 +3,9 @@
 
 ### 解释：
 
-**Repositiory name：**仓库名称，可任意。
+Repositiory name: 仓库名称，可任意。
 
-**README：**一般是指该仓库的说明文件，阅读该仓库内容之前需要先阅读的内容，类似于使用必读。其中该文件默认是.md类型，也就是markdown类型（Markdown 是一种轻量级标记语言）。当你进入github网站，打开该仓库时，github默认会显示README.md的内容。例如：本仓库（Git-HowTo）的README.md内容如下：
+README: 一般是指该仓库的说明文件，阅读该仓库内容之前需要先阅读的内容，类似于使用必读。其中该文件默认是.md类型，也就是markdown类型（Markdown 是一种轻量级标记语言）。当你进入github网站，打开该仓库时，github默认会显示README.md的内容。例如：本仓库（Git-HowTo）的README.md内容如下：
 ```
 # Git-HowTo
 This is an introduction of git usage
